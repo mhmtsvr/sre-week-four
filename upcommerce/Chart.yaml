@@ -2,3 +2,4 @@ apiVersion: v1
 name: upcommerce 
 description: A simple Helm chart that manages deployment and service for upcommerce
 version: 0.1.0
+icon: "https://uplimit.com/_next/static/media/uplimit-transparent-white.a6af54af.svg"
